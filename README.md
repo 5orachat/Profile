@@ -37,7 +37,7 @@ Hello educators and learners! 👋 I'm Sorachat, an enthusiastic education-focus
 
 ## 📊 GitHub Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&hide=contribs,prs&theme=radical)](https://github.com/YourGitHubUsername)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&hide=contribs,prs&theme=radical)]([https://github.com/YourGitHubUsername](https://github-stats-alpha.vercel.app/api?username=5orachat))
 
 ## 📬 Contact Me
 
