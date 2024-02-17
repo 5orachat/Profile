@@ -24,8 +24,6 @@ Hello educators and learners! 👋 I'm Sorachat, an enthusiastic education-focus
 
 ## 💡 Educational Projects
 
-<img src="https://www.hackerrank.com/certificates/iframe/9cfd511260f6" width="160" />
-
 ### [REACT]
 
 - Create shop By React 🛒
