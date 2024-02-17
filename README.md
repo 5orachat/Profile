@@ -32,6 +32,8 @@ Hello educators and learners! 👋 I'm Sorachat, an enthusiastic education-focus
 
 - Create Expenses Mobile APP By Flutter 💸
 
+## 📊 Power BI
+Certificate : https://learn.microsoft.com/en-us/users/sorachatsuksri-0788/achievements?tab=credentials-tab
 
 ## 📊 GitHub Stats
 
