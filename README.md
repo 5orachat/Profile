@@ -50,4 +50,4 @@ Hello educators and learners! 👋 I'm Sorachat, an enthusiastic education-focus
 </picture>
 
 
-Feel free to explore my repositories, and let's collaborate to enhance the educational journey together! 🌟
+---- HAVE A GOOD DAY ----
