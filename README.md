@@ -41,7 +41,7 @@ Certificate : https://learn.microsoft.com/en-us/users/sorachatsuksri-0788/achiev
 
 ## 📬 Contact Me
 
-- **Email:** sorachat.su@ku.th
+- **Email:** sorachat.su@gmail.com
 - **Facebook:** S'Sorachat Suksri
 - **Twitch:** Xenopletis
 
